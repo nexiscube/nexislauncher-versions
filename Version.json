@@ -1,0 +1,84 @@
+{
+  "versions": [
+    {
+      "version": "26.2",
+      "description": "CHAOS CUBED UPDATE",
+      "image_url": ""
+    },
+    {
+      "version": "26.1",
+      "description": "NEW CHILDS UPDATE",
+      "image_url": ""
+    },
+    {
+      "version": "1.21",
+      "description": "TRICKY TRIALS",
+      "image_url": ""
+    },
+    {
+      "version": "1.20",
+      "description": "TRAILS & TALES",
+      "image_url": ""
+    },
+    {
+      "version": "1.19",
+      "description": "THE WILD UPDATE",
+      "image_url": ""
+    },
+    {
+      "version": "1.18",
+      "description": "CAVES & CLIFFS PART II",
+      "image_url": ""
+    },
+    {
+      "version": "1.17",
+      "description": "CAVES & CLIFFS PART I",
+      "image_url": ""
+    },
+    {
+      "version": "1.16",
+      "description": "NETHER UPDATE",
+      "image_url": ""
+    },
+    {
+      "version": "1.15",
+      "description": "BUZZY BEES",
+      "image_url": ""
+    },
+    {
+      "version": "1.14",
+      "description": "VILLAGE & PILLAGE",
+      "image_url": ""
+    },
+    {
+      "version": "1.13",
+      "description": "UPDATE AQUATIC",
+      "image_url": ""
+    },
+    {
+      "version": "1.12",
+      "description": "WORLD OF COLOR UPDATE",
+      "image_url": ""
+    },
+    {
+      "version": "1.11",
+      "description": "EXPLORATION UPDATE",
+      "image_url": ""
+    },
+    {
+      "version": "1.10",
+      "description": "FROSTBURN UPDATE",
+      "image_url": ""
+    },
+    {
+      "version": "1.9",
+      "description": "COMBAT UPDATE",
+      "image_url": ""
+    },
+    {
+      "version": "1.8",
+      "description": "BOUNTIFUL UPDATE",
+      "image_url": ""
+    }
+  ]
+}
